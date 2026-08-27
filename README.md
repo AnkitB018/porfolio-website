@@ -1,5 +1,4 @@
 # Personal Portfolio
 
 This is my personal portfolio, currently hosted at https://www.cse.iitb.ac.in/~ankitb/.
-It is not updated yet and is currently only being used for testing; it will be updated later.
-
+This is dev branch will be used for testing
